@@ -124,6 +124,9 @@ h2 {
     background-color: #E5E7EB;
 }
 
+.quote .speech {
+    font-size: 25px;
+}
 
 .quote .name {
     align-self: flex-end;
