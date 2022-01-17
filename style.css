@@ -4,7 +4,7 @@
 #first div,
 #second,
 .quote,
-#bottom {
+footer {
     display: flex;
 }
 
@@ -38,7 +38,7 @@ h2,
 
 #first div,
 #second,
-#bottom {
+footer {
     justify-content: center;
 }
 
@@ -124,21 +124,18 @@ h2 {
     background-color: #E5E7EB;
 }
 
+
 .quote .name {
     align-self: flex-end;
 }
 
-.quote .speech {
-    font-size: 50px;
-}
-
-#bottom {
+footer {
     gap: 20px;
     background-color: #1F2937;
     color: #F9FAF8;
 }
 
-#bottom a {
+footer a {
     color: #F9FAF8;
     text-decoration: underline;
 }
